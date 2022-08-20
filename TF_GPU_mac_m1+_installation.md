@@ -2,13 +2,13 @@ Note: Uninstall Anaconda/Anaconda Navigator and other related previously install
 
 - Step1: How to uninstall Anaconda successfully and completely
 ```
-Remove Anaconda[https://docs.anaconda.com/anaconda/install/uninstall/]
+[Remove Anaconda](https://docs.anaconda.com/anaconda/install/uninstall/)
 ```
 
 - Step2: Install miniforge from brew. If brew does not exist in your system then follow the substep first.
     - Install brew for mac os
     ```
-    install brew[https://brew.sh/]
+    [install brew](https://brew.sh/)
     ```
 ```
 brew install miniforge
@@ -22,7 +22,7 @@ conda init zsh
 conda init bash
 ```
 
-- Step4: Create an anaconda environment: conda create -n <name of your virtual env>
+- Step4: Create an anaconda environment: conda create -n "name of your virtual env"
 ```
 conda create -n tf -y
 ```
