@@ -1,14 +1,14 @@
 Note: Uninstall Anaconda/Anaconda Navigator and other related previously installed version of conda-based installations. Anaconda and Miniforge cannot co-exist together.
 
 - Step1: How to uninstall Anaconda successfully and completely
-```
+
 [Remove Anaconda](https://docs.anaconda.com/anaconda/install/uninstall/)
-```
+
 
 - Optional: If brew does not exist in your system then follow this step first otherwise ignore it.
-```
+
 [install brew](https://brew.sh/)
-```
+
 
 - Step2: Install miniforge from brew. 
 ```
