@@ -5,14 +5,15 @@ Note: Uninstall Anaconda/Anaconda Navigator and other related previously install
 [Remove Anaconda](https://docs.anaconda.com/anaconda/install/uninstall/)
 ```
 
-- Step2: Install miniforge from brew. If brew does not exist in your system then follow the substep first.
-    - Install brew for mac os
-    ```
-    [install brew](https://brew.sh/)
-    ```
+- Optional: If brew does not exist in your system then follow this step first otherwise ignore it.
 ```
-brew install miniforge
+[install brew](https://brew.sh/)
 ```
+
+- Step2: Install miniforge from brew. 
+```
+brew install miniforge 
+```   
 
 - Step3: Use the below commands to ensure that your shell scripts have correct commands to activate conda environment
 ```
